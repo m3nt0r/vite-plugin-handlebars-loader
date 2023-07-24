@@ -17,7 +17,7 @@
     "vite-plugin"
   ],
   "dependencies": {
-    "handlebars": "2.0.0"
+    "handlebars": "4.7.7"
   },
   "devDependencies": {
     "@tsconfig/node14": "1.0.1",
